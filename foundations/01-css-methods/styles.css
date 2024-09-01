@@ -3,7 +3,7 @@ div
  color:white;
  background-color:red;
  font-size:32px;
- font-style:strong;
- align:center;
+ font-weight:strong;
+ text-align:center;
 }
 
